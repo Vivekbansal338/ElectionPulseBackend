@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Aam Aadmi Party",
+    "shortName": "AAP",
+    "symbol": "Broom",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "National",
+    "status": "Active"
+  },
+  {
+    "name": "Bahujan Samaj Party",
+    "shortName": "BSP",
+    "symbol": "Elephant",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "National",
+    "status": "Active"
+  },
+  {
+    "name": "Bharatiya Janata Party",
+    "shortName": "BJP",
+    "symbol": "Lotus",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "National",
+    "status": "Active"
+  },
+  {
+    "name": "Communist Party of India (Marxist)",
+    "shortName": "CPI(M)",
+    "symbol": "Hammer, Sickle and Star",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "National",
+    "status": "Active"
+  },
+  {
+    "name": "Indian National Congress",
+    "shortName": "INC",
+    "symbol": "Hand",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "National",
+    "status": "Active"
+  },
+  {
+    "name": "National People's Party",
+    "shortName": "NPP",
+    "symbol": "Book",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "National",
+    "status": "Active"
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "name": "Telugu Desam",
+    "short_name": "TDP",
+    "symbol": "Bicycle",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Yuvajana Sramika Rythu Congress Party",
+    "short_name": "YSRCP",
+    "symbol": "Ceiling Fan",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "People's Party of Arunachal",
+    "short_name": "PPA",
+    "symbol": "Maize",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Arunachal Pradesh"
+  },
+  {
+    "name": "Janata Dal (Secular)",
+    "short_name": "JDS",
+    "symbol": "A Lady Farmer carrying Paddy on her head",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Arunachal Pradesh"
+  },
+  {
+    "name": "Janata Dal (United)",
+    "short_name": "JD(U)",
+    "symbol": "Arrow",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Arunachal Pradesh"
+  },
+  {
+    "name": "All India United Democratic Front",
+    "short_name": "AIUDF",
+    "symbol": "Lock & Key",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Assam"
+  },
+  {
+    "name": "Asom Gana Parishad",
+    "short_name": "AGP",
+    "symbol": "Elephant",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Assam"
+  },
+  {
+    "name": "Bodoland Peoples Front",
+    "short_name": "BPF",
+    "symbol": "Nangol",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Assam"
+  },
+  {
+    "name": "United People's Party, Liberal",
+    "short_name": "UPPL",
+    "symbol": "Tractor",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Assam"
+  },
+  {
+    "name": "Janata Dal (United)",
+    "short_name": "JD(U)",
+    "symbol": "Arrow",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Bihar"
+  },
+  {
+    "name": "Lok Jan Shakti Party",
+    "short_name": "LJSP",
+    "symbol": null,
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "inactive",
+    "state": "Bihar"
+  },
+  {
+    "name": "Rashtriya Janata Dal",
+    "short_name": "RJD",
+    "symbol": "Hurricane Lamp",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Bihar"
+  },
+  {
+    "name": "Rashtriya Lok Samta Party",
+    "short_name": "RLSP",
+    "symbol": "Ceiling Fan",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Bihar"
+  },
+  {
+    "name": "Communist Party of India (Marxist-Leninist) (Liberation)",
+    "short_name": "CPI(ML)(L)",
+    "symbol": "Flag with Three Stars",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Bihar"
+  },
+  {
+    "name": "Janta Congress Chhattisgarh (J)",
+    "short_name": "JCC(J)",
+    "symbol": "Farmer Ploughing (within Square)",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Maharashtrawadi Gomantak",
+    "short_name": "MGP",
+    "symbol": "Lion",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Goa"
+  },
+  {
+    "name": "Goa Forward Party",
+    "short_name": "GFP",
+    "symbol": "Coconut",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Goa"
+  },
+  {
+    "name": "Revolutionary Goans Party",
+    "short_name": "RGP",
+    "symbol": "Football",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Goa"
+  },
+  {
+    "name": "Indian National Lok Dal",
+    "short_name": "INLD",
+    "symbol": "Spectacles",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Haryana"
+  },
+  {
+    "name": "Jannayak Janta Party",
+    "short_name": "JJP",
+    "symbol": "Key",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Haryana"
+  },
+  {
+    "name": "Jammu & Kashmir National Conference",
+    "short_name": "JKNC",
+    "symbol": "Plough",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Jammu and Kashmir"
+  },
+  {
+    "name": "Jammu & Kashmir National Panthers Party",
+    "short_name": "JKNPP",
+    "symbol": null,
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "inactive",
+    "state": "Jammu and Kashmir"
+  },
+  {
+    "name": "Jammu and Kashmir Peoples Democratic Party",
+    "short_name": "JKPDP",
+    "symbol": "Ink Pot & Pen",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Jammu and Kashmir"
+  },
+  {
+    "name": "AJSU Party",
+    "short_name": "AJSU",
+    "symbol": "Banana",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Jharkhand Mukti Morcha",
+    "short_name": "JMM",
+    "symbol": "Bow & Arrow",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Rashtriya Janata Dal",
+    "short_name": "RJD",
+    "symbol": "Hurricane Lamp",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Janata Dal (Secular)",
+    "short_name": "JDS",
+    "symbol": "A Lady Farmer carrying Paddy on her head",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Janata Dal (Secular)",
+    "short_name": "JDS",
+    "symbol": "A Lady Farmer carrying Paddy on her head",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Kerala"
+  },
+  {
+    "name": "Kerala Congress (M)",
+    "short_name": "KCM",
+    "symbol": "Two Leaves",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Kerala"
+  },
+  {
+    "name": "Indian Union Muslim League",
+    "short_name": "IUML",
+    "symbol": "Ladder",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Kerala"
+  },
+  {
+    "name": "Revolutionary Socialist Party",
+    "short_name": "RSP",
+    "symbol": "Spade & Stoker",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Kerala"
+  },
+  {
+    "name": "Communist Party of India",
+    "short_name": "CPI",
+    "symbol": "Ears of Corn and Sickle",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Kerala"
+  },
+  {
+    "name": "Maharashtra Navnirman Sena",
+    "short_name": "MNS",
+    "symbol": "Railway Engine",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Shiv Sena",
+    "short_name": "SS",
+    "symbol": "Bow and Arrow",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Shiv Sena (Uddhav Balasaheb Thackrey)",
+    "short_name": "SS",
+    "symbol": "Flaming Torch",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "Pending",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Nationalist Congress Party",
+    "short_name": "NCP",
+    "symbol": "Clock",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Nationalist Congress Party - Sharadchandra Pawar",
+    "short_name": "NCP",
+    "symbol": "Man Blowing Turha",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "Pending",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Naga Peoples Front",
+    "short_name": "NPF",
+    "symbol": "Cock",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Manipur"
+  },
+  {
+    "name": "Janata Dal (United)",
+    "short_name": "JD(U)",
+    "symbol": "Arrow",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Manipur"
+  },
+  {
+    "name": "Communist Party of India",
+    "short_name": "CPI",
+    "symbol": "Ears of Corn and Sickle",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Manipur"
+  },
+  {
+    "name": "United Democratic Party",
+    "short_name": "UDP",
+    "symbol": "Drum",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Meghalaya"
+  },
+  {
+    "name": "Hill State People's Democratic Party",
+    "symbol": "Lion",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Meghalaya"
+  },
+  {
+    "name": "People's Democratic Front",
+    "symbol": "Candles",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Meghalaya"
+  },
+  {
+    "name": "Voice of the People Party",
+    "symbol": "Winnower",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Meghalaya"
+  },
+  {
+    "name": "All India Trinamool Congress",
+    "symbol": "Flowers & Grass",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Meghalaya"
+  },
+  {
+    "name": "Mizo National Front",
+    "symbol": "Star",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Mizoram"
+  },
+  {
+    "name": "Zoram Nationalist Party",
+    "symbol": "Sun (without rays)",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Mizoram"
+  },
+  {
+    "name": "Zoram People's Movement",
+    "symbol": "Hat",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Mizoram"
+  },
+  {
+    "name": "Naga Peoples Front",
+    "symbol": "Cock",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Nagaland"
+  },
+  {
+    "name": "Nationalist Democratic Progressive Party",
+    "symbol": "Globe",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Nagaland"
+  },
+  {
+    "name": "Lok Janshakti Party (Ram Vilas)",
+    "symbol": "Helicopter",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Nagaland"
+  },
+  {
+    "name": "Nationalist Congress Party",
+    "symbol": "Clock",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Nagaland"
+  },
+  {
+    "name": "Nationalist Congress Party - Sharadchandra Pawar",
+    "symbol": "Man Blowing Turha",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "Pending",
+    "state": "Nagaland"
+  },
+  {
+    "name": "Biju Janata Dal",
+    "symbol": "Conch",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Odisha"
+  },
+  {
+    "name": "All India Anna Dravida Munnetra Kazhagam",
+    "symbol": "Two Leaves",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Puducherry"
+  },
+  {
+    "name": "All India N.R. Congress",
+    "symbol": "Jug",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Puducherry"
+  },
+  {
+    "name": "Dravida Munnetra Kazhagam",
+    "symbol": "Rising Sun",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Puducherry"
+  },
+  {
+    "name": "Shiromani Akali Dal",
+    "symbol": "Scales",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Punjab"
+  },
+  {
+    "name": "Rashtriya Loktantrik Party",
+    "symbol": "Bottle",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Sikkim Democratic Front",
+    "symbol": "Umbrella",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Sikkim"
+  },
+  {
+    "name": "Sikkim Krantikari Morcha",
+    "symbol": "Table Lamp",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Sikkim"
+  },
+  {
+    "name": "All India Anna Dravida Munnetra Kazhagam",
+    "symbol": "Two leaves",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Dravida Munnetra Kazhagam",
+    "symbol": "Rising Sun",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Desiya Murpokku Dravida Kazhagam",
+    "symbol": "Nagara",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Communist Party of India",
+    "symbol": "Ears of Corn and Sickle",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "All India Majlis-E-Ittehadul Muslimeen",
+    "symbol": "Kite",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Telangana"
+  },
+  {
+    "name": "Bharat Rashtra Samithi",
+    "symbol": "Car",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Telangana"
+  },
+  {
+    "name": "Telugu Desam",
+    "symbol": "Bicycle",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Telangana"
+  },
+  {
+    "name": "Yuvajana Sramika Rythu Congress Party",
+    "symbol": "Ceiling Fan",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Telangana"
+  },
+  {
+    "name": "Indigenous People's Front of Tripura",
+    "symbol": "Dao",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Tripura"
+  },
+  {
+    "name": "Tipra Motha Party",
+    "symbol": "Pineapple",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Tripura"
+  },
+  {
+    "name": "All India Trinamool Congress",
+    "symbol": "Flowers & Grass",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Tripura"
+  },
+  {
+    "name": "Samajwadi Party",
+    "symbol": "Bicycle",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Apna Dal (Soneylal)",
+    "symbol": "Village",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "All India Forward Bloc",
+    "symbol": "Lion",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "West Bengal"
+  },
+  {
+    "name": "All India Trinamool Congress",
+    "symbol": "Flowers & Grass",
+    "founded": null,
+    "ideology": "Unknown",
+    "area": "State",
+    "status": "active",
+    "state": "West Bengal"
+  }
+]

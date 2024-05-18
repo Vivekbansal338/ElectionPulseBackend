@@ -1,0 +1,3260 @@
+[
+  {
+    "name": "Araku",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Srikakulam",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Vizianagaram",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Visakhapatnam",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Anakapalli",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Kakinada",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Amalapuram",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Rajahmundry",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Narasapuram",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Eluru",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Machilipatnam",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Vijayawada",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Guntur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Narasaraopet",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Bapatla",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Ongole",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Nandyal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Kurnool",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Anantapur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Hindupur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Kadapa",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Nellore",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Tirupati",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Rajampet",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Chittoor",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Arunachal West",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Arunachal Pradesh"
+  },
+  {
+    "name": "Arunachal East",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Arunachal Pradesh"
+  },
+  {
+    "name": "Kokrajhar",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Dhubri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Barpeta",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Darrang-Udalguri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Guwahati",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Diphu",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Karimganj",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Silchar",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Nagaon",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Kaziranga",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Sonitpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Lakhimpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Dibrugarh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Jorhat",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Assam"
+  },
+  {
+    "name": "Valmiki Nagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Paschim Champaran",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Purvi Champaran",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Sheohar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Sitamarhi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Madhubani",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Jhanjharpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Supaul",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Araria",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Kishanganj",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Katihar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Purnia",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Madhepura",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Darbhanga",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Muzaffarpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Vaishali",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Gopalganj",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Siwan",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Maharajganj",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Saran",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Hajipur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Ujiarpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Samastipur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Begusarai",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Khagaria",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Bhagalpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Banka",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Munger",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Nalanda",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Patna Sahib",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Pataliputra",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Arrah",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Buxar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Sasaram",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Karakat",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Jahanabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Aurangabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Gaya",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Nawada",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Jamui",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Bihar"
+  },
+  {
+    "name": "Sarguja",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Raigarh",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Janjgir-Champa",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Korba",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Bilaspur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Rajnandgaon",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Durg",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Raipur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Mahasamund",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Bastar",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "Kanker",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Chhattisgarh"
+  },
+  {
+    "name": "North Goa",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Goa"
+  },
+  {
+    "name": "South Goa",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Goa"
+  },
+  {
+    "name": "Kachchh",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Banaskantha",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Patan",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Mahesana",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Sabarkantha",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Gandhinagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Ahmedabad East",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Ahmedabad West",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Surendranagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Rajkot",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Porbandar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Jamnagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Junagadh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Amreli",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Bhavnagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Anand",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Kheda",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Panchmahal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Dahod",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Vadodara",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Chhota Udaipur",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Bharuch",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Bardoli",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Surat",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Navsari",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Valsad",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Gujarat"
+  },
+  {
+    "name": "Ambala",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Haryana"
+  },
+  {
+    "name": "Kurukshetra",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Haryana"
+  },
+  {
+    "name": "Sirsa",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Haryana"
+  },
+  {
+    "name": "Hisar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Haryana"
+  },
+  {
+    "name": "Karnal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Haryana"
+  },
+  {
+    "name": "Sonipat",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Haryana"
+  },
+  {
+    "name": "Rohtak",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Haryana"
+  },
+  {
+    "name": "Bhiwani-Mahendragarh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Haryana"
+  },
+  {
+    "name": "Gurgaon",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Haryana"
+  },
+  {
+    "name": "Faridabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Haryana"
+  },
+  {
+    "name": "Kangra",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "name": "Mandi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "name": "Hamirpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "name": "Shimla",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "name": "Rajmahal",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Dumka",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Godda",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Chatra",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Kodarma",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Giridih",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Dhanbad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Ranchi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Jamshedpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Singhbhum",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Khunti",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Lohardaga",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Palamau",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Hazaribagh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jharkhand"
+  },
+  {
+    "name": "Chikkodi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Belgaum",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Bagalkot",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Bijapur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Gulbarga",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Raichur",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Bidar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Koppal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Bellary",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Haveri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Dharwad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Uttara Kannada",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Davanagere",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Shimoga",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Udupi Chikmagalur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Hassan",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Dakshina Kannada",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Chitradurga",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Tumkur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Mandya",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Mysore",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Chamarajanagar",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Bangalore Rural",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Bangalore North",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Bangalore Central",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Bangalore South",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Chikballapur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Kolar",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Karnataka"
+  },
+  {
+    "name": "Kasaragod",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Kannur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Vatakara",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Wayanad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Kozhikode",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Malappuram",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Ponnani",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Palakkad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Alathur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Thrissur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Chalakudy",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Ernakulam",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Idukki",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Kottayam",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Alappuzha",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Mavelikara",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Pathanamthitta",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Kollam",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Attingal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Thiruvananthapuram",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Kerala"
+  },
+  {
+    "name": "Morena",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Bhind",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Gwalior",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Guna",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Sagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Tikamgarh",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Damoh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Khajuraho",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Satna",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Rewa",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Sidhi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Shahdol",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Jabalpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Mandla",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Balaghat",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Chhindwara",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Hoshangabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Vidisha",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Bhopal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Rajgarh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Dewas",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Ujjain",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Mandsour",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Ratlam",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Dhar",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Indore",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Khargone",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Khandwa",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Betul",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "name": "Nandurbar",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Dhule",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Jalgaon",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Raver",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Buldhana",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Akola",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Amravati",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Wardha",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Ramtek",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Nagpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Bhandara-Gondiya",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Gadchiroli-Chimur",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Chandrapur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Yavatmal-Washim",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Hingoli",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Nanded",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Parbhani",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Jalna",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Aurangabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Dindori",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Nashik",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Palghar",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Bhiwandi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Kalyan",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Thane",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Mumbai North",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Mumbai North West",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Mumbai North East",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Mumbai North Central",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Mumbai South Central",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Mumbai South",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Raigad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Maval",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Pune",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Baramati",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Shirur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Ahmednagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Shirdi",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Beed",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Osmanabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Latur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Solapur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Madha",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Sangli",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Satara",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Ratnagiri-Sindhudurg",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Kolhapur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Hatkanangle",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Maharashtra"
+  },
+  {
+    "name": "Inner Manipur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Manipur"
+  },
+  {
+    "name": "Outer Manipur",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Manipur"
+  },
+  {
+    "name": "Shillong",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Meghalaya"
+  },
+  {
+    "name": "Tura",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Meghalaya"
+  },
+  {
+    "name": "Mizoram",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Mizoram"
+  },
+  {
+    "name": "Nagaland",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Nagaland"
+  },
+  {
+    "name": "Bargarh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Sundargarh",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Sambalpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Keonjhar",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Mayurbhanj",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Balasore",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Bhadrak",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Jajpur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Dhenkanal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Bolangir",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Kalahandi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Nabarangpur",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Kandhamal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Cuttack",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Kendrapara",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Jagatsinghpur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Puri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Bhubaneswar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Aska",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Berhampur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Koraput",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Odisha"
+  },
+  {
+    "name": "Gurdaspur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Amritsar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Khadoor Sahib",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Jalandhar",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Hoshiarpur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Anandpur Sahib",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Ludhiana",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Fatehgarh Sahib",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Faridkot",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Firozpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Bathinda",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Sangrur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Patiala",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Punjab"
+  },
+  {
+    "name": "Ganganagar",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Bikaner",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Churu",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Jhunjhunu",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Sikar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Jaipur Rural",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Jaipur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Alwar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Bharatpur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Karauli-Dholpur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Dausa",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Tonk-Sawai Madhopur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Ajmer",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Nagaur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Pali",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Jodhpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Barmer",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Jalore",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Udaipur",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Banswara",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Chittorgarh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Rajsamand",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Bhilwara",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Kota",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Jhalawar-Baran",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Sikkim",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Sikkim"
+  },
+  {
+    "name": "Thiruvallur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Chennai North",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Chennai South",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Chennai Central",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Sriperumbudur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Kancheepuram",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Arakkonam",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Vellore",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Krishnagiri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Dharmapuri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Tiruvannamalai",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Arani",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Villupuram",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Kallakurichi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Salem",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Namakkal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Erode",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Tiruppur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Nilgiris",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Coimbatore",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Pollachi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Dindigul",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Karur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Tiruchirappalli",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Perambalur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Cuddalore",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Chidambaram",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Mayiladuturai",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Nagapattinam",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Thanjavur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Sivaganga",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Madurai",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Theni",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Virudhunagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Ramanathapuram",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Thoothukkudi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Tenkasi",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Tirunelveli",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Kanniyakumari",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tamil Nadu"
+  },
+  {
+    "name": "Adilabad",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Peddapalle",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Karimnagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Nizamabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Zahirabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Medak",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Malkajgiri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Secunderabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Hyderabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Chevella",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Mahbubnagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Nagarkurnool",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Nalgonda",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Bhongir",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Warangal",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Mahabubabad",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Khammam",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Telangana"
+  },
+  {
+    "name": "Tripura West",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Tripura"
+  },
+  {
+    "name": "Tripura East",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Tripura"
+  },
+  {
+    "name": "Saharanpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Kairana",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Muzaffarnagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Bijnor",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Nagina",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Moradabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Rampur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Sambhal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Amroha",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Meerut",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Baghpat",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ghaziabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Gautam Buddha Nagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Bulandshahr",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Aligarh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Hathras",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Mathura",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Agra",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Fatehpur Sikri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Firozabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Mainpuri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Etah",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Badaun",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Aonla",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Bareilly",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Pilibhit",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Shahjahanpur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Kheri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Dhaurahra",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Sitapur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Hardoi",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Misrikh",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Unnao",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Mohanlalganj",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Lucknow",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Rae Bareli",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Amethi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Sultanpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Pratapgarh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Farrukhabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Etawah",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Kannauj",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Kanpur Urban",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Akbarpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Jalaun",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Jhansi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Hamirpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Banda",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Fatehpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Kaushambi",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Phulpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Prayagraj",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Barabanki",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ayodhya",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ambedkar Nagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Bahraich",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Kaiserganj",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Shrawasti",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Gonda",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Domariyaganj",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Basti",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Sant Kabir Nagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Maharajganj",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Gorakhpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Kushi Nagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Deoria",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Bansgaon",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Lalganj",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Azamgarh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ghosi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Salempur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ballia",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Jaunpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Machhlishahr",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ghazipur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Chandauli",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Varanasi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Bhadohi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Mirzapur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Robertsganj",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Tehri Garhwal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttarakhand"
+  },
+  {
+    "name": "Garhwal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttarakhand"
+  },
+  {
+    "name": "Almora",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Uttarakhand"
+  },
+  {
+    "name": "Nainital-Udhamsingh Nagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttarakhand"
+  },
+  {
+    "name": "Haridwar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Uttarakhand"
+  },
+  {
+    "name": "Cooch Behar",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Alipurduars",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Jalpaiguri",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Darjeeling",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Raiganj",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Balurghat",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Maldaha Uttar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Maldaha Dakshin",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Jangipur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Baharampur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Murshidabad",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Krishnanagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Ranaghat",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Bangaon",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Barrackpore",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Dum Dum",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Barasat",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Basirhat",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Jaynagar",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Mathurapur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Diamond Harbour",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Jadavpur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Kolkata Dakshin",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Kolkata Uttar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Howrah",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Uluberia",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Srerampur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Hooghly",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Arambagh",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Tamluk",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Kanthi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Ghatal",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Jhargram",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Medinipur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Purulia",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Bankura",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Bishnupur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Bardhaman Purba",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Bardhaman-Durgapur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Asansol",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Bolpur",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Birbhum",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Andaman and Nicobar Islands"
+  },
+  {
+    "name": "Chandigarh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Chandigarh"
+  },
+  {
+    "name": "Dadra and Nagar Haveli",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Dadra and Nagar Haveli"
+  },
+  {
+    "name": "Daman and Diu",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Daman and Diu"
+  },
+  {
+    "name": "Chandni Chowk",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Delhi"
+  },
+  {
+    "name": "North East Delhi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Delhi"
+  },
+  {
+    "name": "East Delhi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Delhi"
+  },
+  {
+    "name": "New Delhi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Delhi"
+  },
+  {
+    "name": "North West Delhi",
+    "reservedCategory": "SC",
+    "seatType": "Lok Sabha",
+    "state": "Delhi"
+  },
+  {
+    "name": "West Delhi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Delhi"
+  },
+  {
+    "name": "South Delhi",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Delhi"
+  },
+  {
+    "name": "Baramulla",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jammu and Kashmir"
+  },
+  {
+    "name": "Srinagar",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jammu and Kashmir"
+  },
+  {
+    "name": "Anantnag-Rajouri",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jammu and Kashmir"
+  },
+  {
+    "name": "Udhampur",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jammu and Kashmir"
+  },
+  {
+    "name": "Jammu",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Jammu and Kashmir"
+  },
+  {
+    "name": "Ladakh",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Ladakh"
+  },
+  {
+    "name": "Lakshadweep",
+    "reservedCategory": "ST",
+    "seatType": "Lok Sabha",
+    "state": "Lakshadweep"
+  },
+  {
+    "name": "Puducherry",
+    "reservedCategory": "None",
+    "seatType": "Lok Sabha",
+    "state": "Puducherry"
+  }
+]
