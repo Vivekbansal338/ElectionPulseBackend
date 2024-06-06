@@ -62,7 +62,7 @@ const seatSchema = new mongoose.Schema({
   boundary: {
     type: {
       type: String,
-      enum: ["Polygon"],
+      enum: ["Polygon", "MultiPolygon"],
       // required: true
     },
     coordinates: {
